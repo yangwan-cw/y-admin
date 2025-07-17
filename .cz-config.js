@@ -42,8 +42,12 @@ module.exports = {
     { name: 'leetcode' },
     { name: 'javascript' },
     { name: 'typescript' },
-    { name: 'Vue' },
-    { name: 'node' }
+    { name: 'vue' },
+    { name: 'node' },
+    { name: 'css' },
+    { name: 'other' },
+    { name: 'docs' },
+    { name: 'test' }
   ],
   // it needs to match the value for field type. Eg.: 'fix'
   /*  scopeOverrides: {
